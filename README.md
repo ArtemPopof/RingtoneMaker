@@ -1,7 +1,6 @@
-# RingtoneMaker
-Android app that allows you to create custom ringtone from your favorite song.
+# RingtoneMaker - Android app that allows you to create custom ringtone from your favorite song.
 
-Features: 
+## Features: 
 
 * Creating ringtone from any music you like.
 * Pick any song from your Vk.com playlist. (?)
